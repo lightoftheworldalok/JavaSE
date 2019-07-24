@@ -1,4 +1,4 @@
-package com.alockcontactmail.basic;
+package com.alokcontactmail.basic;
 
 public class Break6 {
 
