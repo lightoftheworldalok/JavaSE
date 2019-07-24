@@ -1,4 +1,4 @@
-package com.alokcontactmail.MoreDataTypeAndOperators;
+package com.alokcontactmail.CloserLookatMethodsAndClasses;
 
 public class StaticBlock {
 	static double rootOf2;
