@@ -1,4 +1,4 @@
-package com.alokcontactmail.MoreDataTypeAndOperators;
+package com.alokcontactmail.moreDataTypeAndOperators;
 
 public class ShowBitsInByte {
 

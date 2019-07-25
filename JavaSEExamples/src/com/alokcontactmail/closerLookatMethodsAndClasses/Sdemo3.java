@@ -1,4 +1,4 @@
-package com.alokcontactmail.CloserLookatMethodsAndClasses;
+package com.alokcontactmail.closerLookatMethodsAndClasses;
 
 public class Sdemo3 {
 

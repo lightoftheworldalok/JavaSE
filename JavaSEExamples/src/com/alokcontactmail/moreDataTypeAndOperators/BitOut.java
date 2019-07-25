@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.alokcontactmail.MoreDataTypeAndOperators;
+package com.alokcontactmail.moreDataTypeAndOperators;
 
 /**
  * @author alokkumar
