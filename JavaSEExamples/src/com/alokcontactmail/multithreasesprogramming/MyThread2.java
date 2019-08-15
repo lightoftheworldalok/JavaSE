@@ -10,7 +10,7 @@ public class MyThread2 implements Runnable {
 	// Begin execution of new thread. 
 	@Override
 	public void run() {
-		System.out.println(thread.getName()+" stsrting. ");
+		System.out.println(thread.getName()+" starting. ");
 		try {
 			for (int i = 0; i < 10; i++) {
 				Thread.sleep(400);
