@@ -1,4 +1,5 @@
 package com.alokcontactmail.datatypes;
+import java.lang.*;
 /**
  * 
  */
@@ -15,7 +16,10 @@ public class Inches {
 	public static void main(String[] args) {
 		long cubicInches;
 		long inchesPerMile;
-		
+		char ch = 200;
+		double od = '5';
+		System.out.println(ch);
+		System.out.println(od);
 		//compute the number of inches in a mile
 		inchesPerMile = 5280 *12;
 		
